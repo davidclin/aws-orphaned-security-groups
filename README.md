@@ -14,9 +14,9 @@ Security Groups attached to instances: 55
 Orphaned Security Groups: 51
 ------------------------------------------
 Orphaned Security Group Ids:
-sg-xxxxxxxx, sg-yyyyyyyy, ...
+sg-xxxxxxxx, sg-yyyyyyyy, etc.
 ------------------------------------------
 Orphaned Security Group Names:
-sg-name-example-1, sg-name-example-2, ...
+sg-name-example-1, sg-name-example-2, etc.
 ------------------------------------------
 </pre>
