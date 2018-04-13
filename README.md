@@ -5,6 +5,8 @@ Requirements
 boto3
 
 Artifact
+
+<pre>
 $ python sgroup.py
 ------------------------------------------
 Total Security Groups: 106
@@ -17,3 +19,4 @@ sg-xxxxxxxx, sg-yyyyyyyy, ...
 Orphaned Security Group Names:
 sg-name-example-1, sg-name-example-2, ...
 ------------------------------------------
+</pre>
