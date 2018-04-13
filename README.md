@@ -1,10 +1,10 @@
 # aws-orphaned-security-groups
 Boto3 script that finds orphaned security groups
 
-Requirements<br>
+*Requirements*<br>
 boto3
 
-Artifact
+*Artifact*
 
 <pre>
 $ python sgroup.py
